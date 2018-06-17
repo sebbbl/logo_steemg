@@ -36,4 +36,4 @@ Font used : [Ubuntu title](https://www.dafont.com/fr/ubuntu-title.font?l[]=10&te
 #### Original files
 You can download the files [here](https://drive.google.com/drive/folders/1MS2nXpJYyKMhC8qQ3ZUVTKamNMN8uKRB?usp=sharing).
 #### Proof of Work Done
-Paste here the full url to your github account. E.g. https://github.com/username
+Paste here the full url to your github account. E.g. https://github.com/sebbbl
