@@ -31,6 +31,7 @@ This logo is very simple and quickly identifiable. It respects the main colours 
 
 #### Tools
 Inkscape 0.92
+
 Font used : [Ubuntu title](https://www.dafont.com/fr/ubuntu-title.font?l[]=10&text=steemg)
 
 #### Original files
