@@ -6,6 +6,7 @@ https://github.com/pzhaonet/steemg
 
 #### Linked Task Request
 https://steemit.com/utopian-io/@dapeng/steemg-logo
+
 [Communication with task author](https://busy.org/@sebbbl/re-dapeng-steemg-logo-20180617t191834337z)
 
 #### Details
@@ -23,7 +24,9 @@ The text "steemg" is written in white in the horizontal bar of the G. As asked b
 
 256, 128, 64 and 32 pixels wide.
 
+
  ![](https://i.imgur.com/G0jN0TO.png)  ![](https://i.imgur.com/GfW2QTg.png)  ![](https://i.imgur.com/qHW0e5y.png)  ![](https://i.imgur.com/5tnYrwc.png)
+
 
 
  ![](https://i.imgur.com/XjrnO7W.png)  ![](https://i.imgur.com/r7TOhT4.png)  ![](https://i.imgur.com/GAuS75Y.png)  ![](https://i.imgur.com/aPMpiF8.png)
@@ -49,6 +52,7 @@ This logo is very simple and quickly identifiable. It respects the main colours 
 
 #### Tools
 Inkscape 0.92
+
 Font used : [Ubuntu title](https://www.dafont.com/fr/ubuntu-title.font?l[]=10&text=steemg)
 
 #### Original files
